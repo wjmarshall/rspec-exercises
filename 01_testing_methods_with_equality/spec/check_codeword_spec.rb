@@ -21,9 +21,4 @@ RSpec.describe "#check_codeword" do
     end
   end
 
-
-
-
 end
-
-  
